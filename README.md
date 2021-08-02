@@ -1,4 +1,4 @@
-# Fetching-the-Stock-Data
+# Fetching-Stock-Data
 This simple program is to fetch stock data from some major companies.
 This simple program fetches stock data from some major companies using yfinance module.
 The data can also be saved into text files.
