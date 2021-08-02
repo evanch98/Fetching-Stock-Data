@@ -1,6 +1,6 @@
 # Fetching-the-Stock-Data
-This simple program is to fetch stock data from major companies.
-This simple program fetch stock data from major companies using yfinance module.
-The data can also saved into the text files.
-The data are from last five days.
-Sample text file is uploaded in this repository.
+This simple program is to fetch stock data from some major companies.
+This simple program fetches stock data from some major companies using yfinance module.
+The data can also be saved into text files.
+The data are from the last five days.
+The sample text file is uploaded to this repository.
